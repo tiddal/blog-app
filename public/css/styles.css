@@ -1,0 +1,7 @@
+.container.main {
+	margin-top: 7em;
+}
+
+form#delete {
+	display: inline;
+}
