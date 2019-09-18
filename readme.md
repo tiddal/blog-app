@@ -6,7 +6,7 @@
 
 - Create, Read, Update and Delete posts (CRUD)
 
-## Tecnologies used:
+## Technologies used:
 
 - Front-end:
 
